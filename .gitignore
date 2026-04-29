@@ -82,3 +82,8 @@ publish/
 *.tmp
 *.temp
 *.cache
+
+# =========================
+# Documentations
+# =========================
+docs/
