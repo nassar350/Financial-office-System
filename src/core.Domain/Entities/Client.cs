@@ -34,5 +34,5 @@ public class Client
 
     public ICollection<Financial> Financials { get; set; } = new HashSet<Financial>();
 
-    public ICollection<EmployeeTask> Tasks { get; set; } = new HashSet<EmployeeTask>();
+    public ICollection<Tasks> Tasks { get; set; } = new HashSet<Tasks>();
 }
